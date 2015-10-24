@@ -1,14 +1,18 @@
 {
-  "name": "reactive-api-time-sync",
-  "version": "0.1.0",
+  "name": "reactiveoberver-timesync",
+  "version": "0.1.1",
   "license":"MIT",
   "author":{
     "name" : "Michał Łaszczewski",
     "email" : "m8@em8.pl",
     "url" : "http://realtime.guru/"
   },
+  "repository" : {
+    "type" : "git",
+    "url" : "ReactiveObserver/reactiveobserver-timesync"
+  },
   "dependencies":{
-    "reactive-api":">=0.5.0"
+    "reactiveobserver-client":">=0.5.0"
   },
   "devDependencies": {
     "browserify": ">=5.11.0"
