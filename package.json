@@ -1,0 +1,17 @@
+{
+  "name": "reactive-api-time-sync",
+  "version": "0.1.0",
+  "license":"MIT",
+  "author":{
+    "name" : "Michał Łaszczewski",
+    "email" : "m8@em8.pl",
+    "url" : "http://realtime.guru/"
+  },
+  "dependencies":{
+    "reactive-api":">=0.5.0"
+  },
+  "devDependencies": {
+    "browserify": ">=5.11.0"
+  },
+  "main": "index"
+}
